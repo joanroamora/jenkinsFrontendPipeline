@@ -11,8 +11,8 @@ Bienvenidos a este taller de Jenkins, donde encontrarás una guía básica sobre
 
 <h2> Contenido </h2>
 
-- [01 - Instalación Jenkins](https://github.com/LuisArana631/Taller_Kubernetes)
-- [02 - Pipeline](https://github.com/LuisArana631/Taller_Kubernetes)
+- [01 - Instalación Jenkins](https://github.com/joanroamora/jenkinsFrontendPipeline/tree/main/install)
+- [02 - Pipeline](https://github.com/joanroamora/jenkinsFrontendPipeline/tree/main/frontend)
 
 
 <h2> Requisitos </h2>
