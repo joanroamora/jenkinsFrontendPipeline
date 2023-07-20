@@ -34,3 +34,6 @@ También se utilizarán las siguientes herramientas:
 - <a href="https://code.visualstudio.com/"><img alt="Docker" src="https://img.shields.io/badge/Visual_Studio_Code-gray?style=for-the-badge&logo=visualstudiocode"></a>
 - <a href="https://www.jenkins.io/"><img alt="Docker" src="https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins"></a>
 - <a href="https://angular.io/"><img alt="Docker" src="https://img.shields.io/badge/Angular-gray?style=for-the-badge&logo=angular"></a>
+
+
+Producto desarrollado y testeado de acuerdo con el proyecto expuesto en: https://www.youtube.com/watch?v=CqghkwL-gl8
